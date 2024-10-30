@@ -9,6 +9,7 @@ To install and use the Bloody Shaders in Minecraft, follow these steps:
    - Open Minecraft and go to **Options**.
    - ![](https://github.com/trece313/Bloodyshaders/blob/main/1.png)
    - Click on **Video Settings**.
+   - ![](https://github.com/trece313/Bloodyshaders/blob/main/2.png)
    - Select **Shaders**.
    - This will open the Shaders folder. You can also find it by navigating to:
      - **Windows**: `C:\Users\<Your Username>\AppData\Roaming\.minecraft\shaderpacks`
