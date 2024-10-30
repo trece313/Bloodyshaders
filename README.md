@@ -16,7 +16,7 @@ To install and use the Bloody Shaders in Minecraft, follow these steps:
      - **Windows**: `C:\Users\<Your Username>\AppData\Roaming\.minecraft\shaderpacks`
      - **macOS**: `~/Library/Application Support/minecraft/shaderpacks`
      - **Linux**: `~/.minecraft/shaderpacks`
-
+ - ![](https://github.com/trece313/Bloodyshaders/blob/main/5.png)
 3. **Copy Shader Files**
    - Copy the downloaded shader files into the `shaderpacks` folder you located in the previous step.
 
