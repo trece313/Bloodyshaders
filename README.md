@@ -4,7 +4,7 @@ To install and use the Bloody Shaders in Minecraft, follow these steps:
 
 1. **Download the Shader Files**
    - You can download the shader files from the repository. Make sure to extract the files if they are in a ZIP archive.
-
+![](https://github.com/trece313/Bloodyshaders/blob/main/1.png)
 2. **Locate Your Minecraft Shader Folder**
    - Open Minecraft and go to **Options**.
    - Click on **Video Settings**.
