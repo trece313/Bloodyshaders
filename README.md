@@ -23,6 +23,8 @@ To install and use the Bloody Shaders in Minecraft, follow these steps:
 
 5. **Enjoy Your Game!**
    - Start a new game or load an existing one to see the new shaders in action. Enjoy the darker, bloodier atmosphere for Halloween!
+  
+   - [](https://github.com/trece313/Bloodyshaders/blob/main/1000045174.png)
 
 ## Compatibility
 - The Bloody Shaders are compatible with both **OptiFine** and **Iris**. Ensure you have one of these shader-compatible mods installed to use the shaders properly.
